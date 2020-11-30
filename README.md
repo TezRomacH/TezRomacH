@@ -8,7 +8,7 @@
 - 👯 I’m looking for collaborators to [L2L execution algorithm for PyTorch](https://github.com/TezRomacH/layer-to-layer-pytorch) and [Python Packages Project Generator](https://github.com/TezRomacH/python-package-template).
 - 💬 Ask me about `PyTorch`, `Python`, `Golang`.
 - 📫 How to reach me: [Telegram](https://t.me/TezRomacH) and [Twitter](https://twitter.com/tez_romach).
-- 💰 My CV: [Here](https://drive.google.com/file/d/1bvXeqwM7mhxpHBcWywlYWvP20oDieErb/view?usp=sharing) but it's old.
+- 💰 My CV: [Here](https://drive.google.com/file/d/1bvXeqwM7mhxpHBcWywlYWvP20oDieErb/view?usp=sharing).
 
 <!--
 **TezRomacH/TezRomacH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
