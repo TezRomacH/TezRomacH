@@ -4,10 +4,10 @@
     <img src="https://komarev.com/ghpvc/?username=TezRomacH">
 </a> -->
 
-- 🔭 I’m currently working in Optia.ai
+- 🔭 I’m currently working in [Lamoda](https://global-fashion-group.com/markets/lamoda/) as Senior Data Scientist in Computer Vision
 - 👯 I’m looking for collaborators to [L2L execution algorithm for PyTorch](https://github.com/TezRomacH/layer-to-layer-pytorch) and [Python Packages Project Generator](https://github.com/TezRomacH/python-package-template).
-- 💬 Ask me about `PyTorch`, `Python`, `Golang`.
-- 📫 How to reach me: [Telegram](https://t.me/TezRomacH) and [Twitter](https://twitter.com/tez_romach).
+- 💬 Ask me about `PyTorch`, `Python`, `Computer vision`, `Deep Learning`, `MLOps`, `Golang`.
+- 📫 How to reach me: [Telegram](https://t.me/TezRomacH) or [Twitter](https://twitter.com/tez_romach).
 - 💰 My CV: [Here](https://drive.google.com/file/d/1bvXeqwM7mhxpHBcWywlYWvP20oDieErb/view?usp=sharing).
 
 <!--
