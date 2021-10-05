@@ -30,19 +30,23 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="https://github.com/TezRomacH">
-        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-github.png" width="5%"/>
+        <img src="https://github.com/TezRomacH/TezRomacH/raw/icons2/icons/github.png" width="5%"/>
     </a>
     <img width="3%" />
     <a href="https://www.linkedin.com/in/roman-tezikov/">
-        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-linkedin.png" width="5%"/>
+        <img src="https://github.com/TezRomacH/TezRomacH/raw/icons2/icons/linkedin.png" width="5%"/>
     </a>
     <img width="3%" />
     <a href="https://twitter.com/tez_romach">
-        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-twitter.png" width="5%"/>
+        <img src="https://github.com/TezRomacH/TezRomacH/raw/icons2/icons/twitter.png" width="5%"/>
     </a>
     <img width="3%" />
     <a href="https://drive.google.com/file/d/1bvXeqwM7mhxpHBcWywlYWvP20oDieErb/view?usp=sharing">
-        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-twitter.png" width="5%"/>
+        <img src="https://github.com/TezRomacH/TezRomacH/raw/icons2/icons/file-account.png" width="5%"/>
+    <img width="3%" />
+    <a href="https://t.me/TezRomacH">
+        <img src="https://github.com/TezRomacH/TezRomacH/raw/icons2/icons/telegram.png" width="5%"/>
+    </a>
     </a>
 </p>
 
