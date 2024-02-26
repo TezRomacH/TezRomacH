@@ -4,8 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=TezRomacH">
 </a> -->
 
-- 🔭 I’m currently working in [Lamoda](https://global-fashion-group.com/markets/lamoda/) as Senior Data Scientist in Computer Vision
-- 👯 I’m looking for collaborators to [L2L execution algorithm for PyTorch](https://github.com/TezRomacH/layer-to-layer-pytorch) and [Python Packages Project Generator](https://github.com/TezRomacH/python-package-template).
+- 🔭 I’m currently working in Zing as Senior R&D Engineer in Computer Vision
 - 💬 Ask me about `PyTorch`, `Python`, `Computer vision`, `Deep Learning`, `MLOps`, `Golang`.
 - 💰 My [Resume is here](https://drive.google.com/file/d/1bvXeqwM7mhxpHBcWywlYWvP20oDieErb/view?usp=sharing).
 
