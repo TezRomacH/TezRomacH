@@ -5,7 +5,7 @@
 </a> -->
 
 - 🔭 I’m currently working in Zing as Senior R&D Engineer in Computer Vision
-- 💬 Ask me about `PyTorch`, `Python`, `Computer vision`, `Deep Learning`, `MLOps`, `Golang`.
+- 💬 Ask me about `PyTorch`, `Python`, `Computer vision`, `Deep Learning`, `MLOps`.
 - 💰 My [Resume is here](https://drive.google.com/file/d/1bvXeqwM7mhxpHBcWywlYWvP20oDieErb/view?usp=sharing).
 
 <!--
