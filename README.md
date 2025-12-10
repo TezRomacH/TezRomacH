@@ -4,8 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=TezRomacH">
 </a> -->
 
-- 🔭 I’m currently working in Zing as Senior R&D Engineer in Computer Vision
-- 💬 Ask me about `PyTorch`, `Python`, `Computer vision`, `Deep Learning`, `MLOps`.
+- 🔭 I’m currently working in AdTech as Senior ML Engineer 
 - 💰 My [Resume is here](https://drive.google.com/file/d/1bvXeqwM7mhxpHBcWywlYWvP20oDieErb/view?usp=sharing).
 
 <!--
