@@ -5,7 +5,7 @@
 </a> -->
 
 - 🔭 I’m currently working in AdTech as Senior ML Engineer 
-- 💰 My [Resume is here](https://drive.google.com/file/d/1bvXeqwM7mhxpHBcWywlYWvP20oDieErb/view?usp=sharing).
+- 💰 My [Resume is here](https://drive.google.com/file/d/1DikBWuIrNv22rUJgilkg618JGczBcRZK/view?usp=sharing).
 
 <!--
 **TezRomacH/TezRomacH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
